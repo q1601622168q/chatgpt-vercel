@@ -1,6 +1,5 @@
 # ChatGPT-Vercel
 
-![](assets/preview.png)
 
 预览: [https://vercel-chatgpt-github.vercel.app](https://vercel-chatgpt-github.vercel.app)
 
@@ -67,4 +66,3 @@ await fetch("/api", {
 ![](./assets/reward.gif)
 ## License
 
-[MIT](./LICENSE)
