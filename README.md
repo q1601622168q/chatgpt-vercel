@@ -1,8 +1,6 @@
 # ChatGPT-Vercel
 
 
-预览: [https://vercel-chatgpt-github.vercel.app](https://vercel-chatgpt-github.vercel.app)
-
 ## 部署一个你自己的（免费）
 
 > 本项目主要面向中文用户，所以用中文，原版是英文的。
